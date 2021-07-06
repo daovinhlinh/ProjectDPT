@@ -11,7 +11,6 @@ const red = document.getElementById("red");
 const green = document.getElementById("green");
 const blue = document.getElementById("blue");
 const brightness = document.getElementById("brightness");
-// const sharpen = document.getElementById("sharpen");
 const grayscale = document.getElementById("grayscale");
 const contrast = document.getElementById("contrast");
 const threshold = document.getElementById("threshold");
